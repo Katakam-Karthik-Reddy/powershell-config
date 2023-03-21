@@ -8,4 +8,4 @@ if you wish to config this then follow the below steps:
       5. then add its bin path to system environment variables.
       6. install nord fonts from here -> "https://www.nerdfonts.com/font-downloads". recommended font "caskaydia cove nerd font" 
           then goto settings in windows terminal -> defaults -> Appearance -> change font face to "caskaydiacove"
-      
+      7. put this mytheme file in C:\Users\karthik\AppData\Local\Programs\oh-my-posh\themes this path.
